@@ -40,8 +40,8 @@ Detalhes do jogo:
 ```
 ## 🚀 Resultados
 
-- [Jogo da Memória]()
-- [Jogo da Cobrinha]()
+- [Jogo da Memória](https://github.com/ayrtoncarlos/lab-natty-or-not/tree/main/memory-game)
+- [Jogo da Cobrinha](https://github.com/ayrtoncarlos/lab-natty-or-not/tree/main/snake-game)
 
 ## Links Interessantes
 
