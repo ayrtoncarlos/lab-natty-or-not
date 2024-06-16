@@ -2,14 +2,14 @@
 
 ## 📒 Descrição
 
-Jogo da Memória
-Jogo da Cobrinha
+- Jogo da Memória
+- Jogo da Cobrinha
   
 ## 🤖 Tecnologias Utilizadas
 
-ChatGPT
-Leonardo.ai
-Imagens autorais
+- ChatGPT
+- Leonardo.ai
+- Imagens autorais
 
 ## 🧐 Processo de Criação
 
