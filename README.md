@@ -13,7 +13,7 @@
 
 ## 🧐 Processo de Criação
 
-- Jogo da Memória
+- **Jogo da Memória**:
 Foi criado com o auxílio do **ChatGPT**, na sua versão **GPT-4o**. Foi solicitado via prompt que fosse criado um jogo da memória na linguagem ***Python***.
 Prompt utilizado:
 ```
@@ -26,7 +26,7 @@ Detalhes do jogo:
 - Haverá um score, um tempo e também uma quantidade limitada de tentativas, caso não acerte o par de imagens selecionada na vez, é decrementada nessa quantidade disponível
 - Crie os assets para serem colocados no jogo
 ```
-- Jogo da Cobrinha
+- **Jogo da Cobrinha**:
 Foi criado com o auxílio do **ChatGPT**, na sua versão **GPT-4o**. Foi solicitado via prompt que fosse criado um jogo da cobrinha na linguagem ***Python***.
 Prompt utilizado:
 ```
