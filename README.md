@@ -1,48 +1,47 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
 
+Jogo da Memória
+Jogo da Cobrinha
+  
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+ChatGPT
+Leonardo.ai
+Imagens autorais
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+- Jogo da Memória
+Foi criado com o auxílio do **ChatGPT**, na sua versão **GPT-4o**. Foi solicitado via prompt que fosse criado um jogo da memória na linguagem ***Python***.
+Prompt utilizado:
 ```
+Gere o código na linguagem de programação Python para o jogo mostrado na imagem como exemplo:
 
-### Exemplos e Insigths
+Detalhes do jogo:
+- Jogo da memória
+- Crie um menu para o jogo
+- O jogador deve fazer pares de imagens
+- Haverá um score, um tempo e também uma quantidade limitada de tentativas, caso não acerte o par de imagens selecionada na vez, é decrementada nessa quantidade disponível
+- Crie os assets para serem colocados no jogo
+```
+- Jogo da Cobrinha
+Foi criado com o auxílio do **ChatGPT**, na sua versão **GPT-4o**. Foi solicitado via prompt que fosse criado um jogo da cobrinha na linguagem ***Python***.
+Prompt utilizado:
+```
+Gere o código na linguagem de programação Python para o jogo mostrado na imagem como exemplo:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Detalhes do jogo:
+- Jogo da cobrinha
+- Crie um menu para o jogo, e coloque o botão de inicializar a jogabilidade do usuário
+- Haverá um score que será contabilizado com a quantidade de items pegos durante a jogabilidade pelo usuário
+- Se possível, crie as imagens (Game assets) para serem colocados no jogo
+```
+## 🚀 Resultados
+
+- [Jogo da Memória]()
+- [Jogo da Cobrinha]()
 
 ## Links Interessantes
 
